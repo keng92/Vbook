@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "Nghe Sách",
+    "author": "vBook",
+    "version": 1,
+    "source": "https://nghesach.net",
+    "regexp": "nghesach\\.net/vi/reading/[^/]+$",
+    "description": "Đọc text trên nghesach.net",
+    "locale": "vi_VN",
+    "type": "novel",
+    "language": "javascript"
+  },
+  "script": {
+    "home": "home.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js",
+    "gen": "gen.js"
+  }
+}
